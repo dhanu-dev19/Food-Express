@@ -103,7 +103,7 @@ const Navbar: React.FC =  () => {
       </button>
    </div>
      </div>
-       {/*Mobile menu dropdown*/}
+       
         {isMenuOpen && (
           <div className="lg:hidden px-4 pt-2 pb-5 border-t border-gray-100 bg-white">
             <ul className="flex flex-col gap-2">
